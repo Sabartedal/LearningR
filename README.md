@@ -1,4 +1,4 @@
-# LearningR: Practing awesomeness :D
+# LearningR: Practincing is boringness
 
 This is for the DDA R cource
 
