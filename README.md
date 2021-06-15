@@ -1,6 +1,6 @@
 # LearningR: Practing awesomeness :D
 
-TODO: Give a brief description of what your project is about
+This is for the DDA R cource
 
 This project...
 
