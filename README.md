@@ -1,4 +1,5 @@
-# LearningR: Practincing is boringness
+# LearningR: is fun:-)
+>>>>>>> 44e93b1b0841fafe482c33760b5a8dc48f54db48
 
 This is for the DDA R cource
 
