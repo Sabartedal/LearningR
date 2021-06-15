@@ -1,4 +1,4 @@
-# LearningR: Practing awesomeness :D
+# LearningR: is fun:-)
 
 This is for the DDA R cource
 
