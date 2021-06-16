@@ -187,3 +187,18 @@ nhanes_update <- nhanes_small %>%
     logged_height = log(height),
     highly_active = if_else(phys_active_days >= 5,
                             "Yes", "No" ))
+## Summary statistics by group
+
+nhanes_small %>%
+    summarise(max_bmi = max(bmi))
+
+## Remove NAs
+
+nhanes_small %>%
+    summarise(max_bmi = max(bmi, na.rm = TRUE))
+
+# calculating 2 summary statictics
+
+nhanes_small %>%
+    summarise(max_bmi = max(bmi, na.rm = TRUE),
+              min_bmi = min(bmi, na.rm = TRUE))
