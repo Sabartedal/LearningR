@@ -102,6 +102,7 @@ physical_activity <- nhanes_small %>%
 
 physical_activity
 
+#
 
 
 
