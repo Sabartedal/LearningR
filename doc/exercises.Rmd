@@ -1,7 +1,7 @@
 ---
 title: "Trying out R Markdown"
 author: "Sabina SH Andersen"
-date: "16/6/2021"
+date: "16/6/2021" 
 output: html_document
 ---
 
@@ -15,7 +15,7 @@ output: html_document
 
 # Discussion
 
-## Analysis
+## Analysis %>% 
 
 This is my **data** analysis *section*
 
@@ -41,3 +41,4 @@ nhanes_small %>%
     knitr::kable(caption = "Table caption. Mean values of Age and BMI for each sex and diabetes status.")
 ```
 
+![Amager](Images/untitled.png)
