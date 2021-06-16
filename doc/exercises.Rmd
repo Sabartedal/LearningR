@@ -5,6 +5,20 @@ date: "16/6/2021"
 output: html_document
 ---
 
+1. Sabina SH Andersen
+2. Department of Obesity
+3. University of Copenhagen
+
+# Intro
+
+# Methods and results
+
+# Discussion
+
+## Analysis
+
+This is my **data** analysis *section*
+
 ```{r setup}
 source(here::here("R/package-loading.R"))
 load(here::here("data/nhanes_small.rda"))
